@@ -1,0 +1,16 @@
+An array is a collection of similar elements
+
+one variable = capable of storing multiple values 
+
+SYNTAX=
+
+The syntax of declaring an Array looks like this 
+
+int marks[90];    --------->integer array
+char name[20];    --------->character array or string 
+float percentile[90]; --------> float array 
+ 
+
+The value can now be assigned to marks array like this :
+
+
